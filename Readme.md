@@ -3,45 +3,40 @@
 </p>
 
 
-# 🚀 Project Title  
+# Project Title  
 _A short and catchy tagline or one-liner about your project_
 
 Describe what your project is, what it does, and why it's awesome. Highlight its purpose and uniqueness.
 
----
 
-## 👥 Creators
+## Creators
 
 1. [Name 1](https://github.com/The-Purple-Movement/saddle-up)  
 2. [Name 2](https://github.com/The-Purple-Movement/saddle-up)
 
----
 
-## 🎬 Demo Showcase
+## Demo Showcase
 
 [Watch Walkthrough](Link Here)
 
 You can also embed a short demo video or animation here if you’d like!
 
----
 
-## ⚙️ Behind the Scenes
+## Behind the Scenes
 
 1. Brief overview of how your project works  
 2. Key workflows, logic, or features  
 3. Any creative approach or process worth sharing
 
----
 
-## 🧰 Tech & Tools
+## Tech & Tools
 
 | Tool / Library | Version |
 |----------------|---------|
 | ExampleLib     | 1.2.3   |
 
----
 
-## 🔧 Setup Instructions
+## Setup Instructions
 
 Explain how someone can set up the project on their local machine:
 
