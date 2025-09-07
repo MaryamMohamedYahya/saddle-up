@@ -12,7 +12,6 @@ Describe what your project is, what it does, and why it's awesome. Highlight its
 ## Creators
 
 1. [Name 1](https://github.com/The-Purple-Movement/saddle-up)  
-2. [Name 2](https://github.com/The-Purple-Movement/saddle-up)
 
 
 ## Demo Showcase
